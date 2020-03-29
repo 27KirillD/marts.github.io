@@ -1,0 +1,8 @@
+.container-fluid{
+    background-color: cornflowerblue;
+}
+.mgallery{
+    text-align: center;
+}
+.gallery{
+    max-width: 120px;
